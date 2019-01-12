@@ -26,7 +26,6 @@
   ],
   "devDependencies": {
     "axios": "^0.18.0",
-    "css-loader": "^2.1.0",
     "nprogress": "^0.2.0",
     "tailwindcss": "^0.7.3"
   }
