@@ -6,6 +6,7 @@ body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #e9ebee;
 }
 
 code,
@@ -20,4 +21,24 @@ h4,
 h5,
 h6 {
   font-family: "Roboto", sans-serif;
+}
+
+.single-post {
+  height: 300px;
+}
+
+.single-post .thumbnail_wrap {
+  min-width: 450px;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+  overflow: hidden;
+  display: block;
+}
+
+.single-post .thumbnail {
+  min-width: 100%;
+  min-height: 100%;
+  /* text-align: center;
+  display: table-cell;
+  vertical-align: middle; */
 }

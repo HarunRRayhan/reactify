@@ -443,7 +443,7 @@ ul {
 *::after {
   border-width: 0;
   border-style: solid;
-  border-color: #dae1e7;
+  border-color: #e9ebee;
 }
 
 /**
@@ -572,7 +572,7 @@ table {
 }
 
 .bg-grey-light {
-  background-color: #dae1e7;
+  background-color: #e9ebee;
 }
 
 .bg-grey-lighter {
@@ -864,7 +864,7 @@ table {
 }
 
 .hover\:bg-grey-light:hover {
-  background-color: #dae1e7;
+  background-color: #e9ebee;
 }
 
 .hover\:bg-grey-lighter:hover {
@@ -1156,7 +1156,7 @@ table {
 }
 
 .focus\:bg-grey-light:focus {
-  background-color: #dae1e7;
+  background-color: #e9ebee;
 }
 
 .focus\:bg-grey-lighter:focus {
@@ -1520,7 +1520,7 @@ table {
 }
 
 .border-grey-light {
-  border-color: #dae1e7;
+  border-color: #e9ebee;
 }
 
 .border-grey-lighter {
@@ -1812,7 +1812,7 @@ table {
 }
 
 .hover\:border-grey-light:hover {
-  border-color: #dae1e7;
+  border-color: #e9ebee;
 }
 
 .hover\:border-grey-lighter:hover {
@@ -2104,7 +2104,7 @@ table {
 }
 
 .focus\:border-grey-light:focus {
-  border-color: #dae1e7;
+  border-color: #e9ebee;
 }
 
 .focus\:border-grey-lighter:focus {
@@ -4884,7 +4884,7 @@ table {
 }
 
 .text-grey-light {
-  color: #dae1e7;
+  color: #e9ebee;
 }
 
 .text-grey-lighter {
@@ -5176,7 +5176,7 @@ table {
 }
 
 .hover\:text-grey-light:hover {
-  color: #dae1e7;
+  color: #e9ebee;
 }
 
 .hover\:text-grey-lighter:hover {
@@ -5468,7 +5468,7 @@ table {
 }
 
 .focus\:text-grey-light:focus {
-  color: #dae1e7;
+  color: #e9ebee;
 }
 
 .focus\:text-grey-lighter:focus {
@@ -6194,7 +6194,7 @@ table {
   }
 
   .sm\:bg-grey-light {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .sm\:bg-grey-lighter {
@@ -6486,7 +6486,7 @@ table {
   }
 
   .sm\:hover\:bg-grey-light:hover {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .sm\:hover\:bg-grey-lighter:hover {
@@ -6778,7 +6778,7 @@ table {
   }
 
   .sm\:focus\:bg-grey-light:focus {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .sm\:focus\:bg-grey-lighter:focus {
@@ -7134,7 +7134,7 @@ table {
   }
 
   .sm\:border-grey-light {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .sm\:border-grey-lighter {
@@ -7426,7 +7426,7 @@ table {
   }
 
   .sm\:hover\:border-grey-light:hover {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .sm\:hover\:border-grey-lighter:hover {
@@ -7718,7 +7718,7 @@ table {
   }
 
   .sm\:focus\:border-grey-light:focus {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .sm\:focus\:border-grey-lighter:focus {
@@ -10482,7 +10482,7 @@ table {
   }
 
   .sm\:text-grey-light {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .sm\:text-grey-lighter {
@@ -10774,7 +10774,7 @@ table {
   }
 
   .sm\:hover\:text-grey-light:hover {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .sm\:hover\:text-grey-lighter:hover {
@@ -11066,7 +11066,7 @@ table {
   }
 
   .sm\:focus\:text-grey-light:focus {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .sm\:focus\:text-grey-lighter:focus {
@@ -11793,7 +11793,7 @@ table {
   }
 
   .md\:bg-grey-light {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .md\:bg-grey-lighter {
@@ -12085,7 +12085,7 @@ table {
   }
 
   .md\:hover\:bg-grey-light:hover {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .md\:hover\:bg-grey-lighter:hover {
@@ -12377,7 +12377,7 @@ table {
   }
 
   .md\:focus\:bg-grey-light:focus {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .md\:focus\:bg-grey-lighter:focus {
@@ -12733,7 +12733,7 @@ table {
   }
 
   .md\:border-grey-light {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .md\:border-grey-lighter {
@@ -13025,7 +13025,7 @@ table {
   }
 
   .md\:hover\:border-grey-light:hover {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .md\:hover\:border-grey-lighter:hover {
@@ -13317,7 +13317,7 @@ table {
   }
 
   .md\:focus\:border-grey-light:focus {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .md\:focus\:border-grey-lighter:focus {
@@ -16081,7 +16081,7 @@ table {
   }
 
   .md\:text-grey-light {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .md\:text-grey-lighter {
@@ -16373,7 +16373,7 @@ table {
   }
 
   .md\:hover\:text-grey-light:hover {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .md\:hover\:text-grey-lighter:hover {
@@ -16665,7 +16665,7 @@ table {
   }
 
   .md\:focus\:text-grey-light:focus {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .md\:focus\:text-grey-lighter:focus {
@@ -17392,7 +17392,7 @@ table {
   }
 
   .lg\:bg-grey-light {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .lg\:bg-grey-lighter {
@@ -17684,7 +17684,7 @@ table {
   }
 
   .lg\:hover\:bg-grey-light:hover {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .lg\:hover\:bg-grey-lighter:hover {
@@ -17976,7 +17976,7 @@ table {
   }
 
   .lg\:focus\:bg-grey-light:focus {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .lg\:focus\:bg-grey-lighter:focus {
@@ -18332,7 +18332,7 @@ table {
   }
 
   .lg\:border-grey-light {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .lg\:border-grey-lighter {
@@ -18624,7 +18624,7 @@ table {
   }
 
   .lg\:hover\:border-grey-light:hover {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .lg\:hover\:border-grey-lighter:hover {
@@ -18916,7 +18916,7 @@ table {
   }
 
   .lg\:focus\:border-grey-light:focus {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .lg\:focus\:border-grey-lighter:focus {
@@ -21680,7 +21680,7 @@ table {
   }
 
   .lg\:text-grey-light {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .lg\:text-grey-lighter {
@@ -21972,7 +21972,7 @@ table {
   }
 
   .lg\:hover\:text-grey-light:hover {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .lg\:hover\:text-grey-lighter:hover {
@@ -22264,7 +22264,7 @@ table {
   }
 
   .lg\:focus\:text-grey-light:focus {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .lg\:focus\:text-grey-lighter:focus {
@@ -22991,7 +22991,7 @@ table {
   }
 
   .xl\:bg-grey-light {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .xl\:bg-grey-lighter {
@@ -23283,7 +23283,7 @@ table {
   }
 
   .xl\:hover\:bg-grey-light:hover {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .xl\:hover\:bg-grey-lighter:hover {
@@ -23575,7 +23575,7 @@ table {
   }
 
   .xl\:focus\:bg-grey-light:focus {
-    background-color: #dae1e7;
+    background-color: #e9ebee;
   }
 
   .xl\:focus\:bg-grey-lighter:focus {
@@ -23931,7 +23931,7 @@ table {
   }
 
   .xl\:border-grey-light {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .xl\:border-grey-lighter {
@@ -24223,7 +24223,7 @@ table {
   }
 
   .xl\:hover\:border-grey-light:hover {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .xl\:hover\:border-grey-lighter:hover {
@@ -24515,7 +24515,7 @@ table {
   }
 
   .xl\:focus\:border-grey-light:focus {
-    border-color: #dae1e7;
+    border-color: #e9ebee;
   }
 
   .xl\:focus\:border-grey-lighter:focus {
@@ -27279,7 +27279,7 @@ table {
   }
 
   .xl\:text-grey-light {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .xl\:text-grey-lighter {
@@ -27571,7 +27571,7 @@ table {
   }
 
   .xl\:hover\:text-grey-light:hover {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .xl\:hover\:text-grey-lighter:hover {
@@ -27863,7 +27863,7 @@ table {
   }
 
   .xl\:focus\:text-grey-light:focus {
-    color: #dae1e7;
+    color: #e9ebee;
   }
 
   .xl\:focus\:text-grey-lighter:focus {
